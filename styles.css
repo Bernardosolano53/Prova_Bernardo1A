@@ -16,12 +16,12 @@ header{
 h1{
   text-align: center;
     font-size: 30px;
-  font-family: "Rubik Doodle Shadow", system-ui;
+ font-family: "Libertinus Serif", serif;
 }
 p{
   text-align: center;
     font-size: 20px;
-   font-family: "Indie Flower", cursive;
+ font-family: "Libertinus Serif", serif;
 }
 section.texto {
   background-color: rgb(0, 139, 144);
@@ -35,7 +35,7 @@ section.texto {
 }
 h2{
   text-align: center;
- font-family:  "Rubik Doodle Shadow", system-ui;
+ font-family: "Libertinus Serif", serif;
 }
 img {
   height: 300px;
